@@ -14,7 +14,7 @@ while counter < 20000:
 					'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
 					'Accept-Language': 'en-US,en;q=0.5',
 					'Accept-Encoding': 'gzip, deflate',
-					'Referer': 'http://dgc01-fat-03:7073/euregistry/FI/public/accounts/requestAccountOpeningDetails.xhtml',
+					'Referer': 'ADD REFERRER IF REQUIRED',
 					'Connection': 'keep-alive',
 					'Cookie': 'ADD APP SESSION',
 					'Upgrade-Insecure-Requests':'1',
