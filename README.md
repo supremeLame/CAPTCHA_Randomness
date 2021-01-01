@@ -1,8 +1,6 @@
 # CAPTCHA_Randomness
 
 ![Image](http://img1.wikia.nocookie.net/__cb20110710234758/random-ness/images/6/6b/Random_Button.png "icon")
-
-CAPTCHA_Randomness
 ======
 **CAPTCHA_Randomness** is a mini Python tools to test usually deprecated CAPTCHA functionality.
 
